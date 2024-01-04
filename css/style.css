@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 * {
   width: 100%;
   box-sizing: border-box;
@@ -45,7 +48,6 @@ h1 {
   color: #003049;
   font-family: Poppins;
   font-size: 41px;
-  font-style: normal;
   font-weight: 700;
   line-height: 48px;
 }
@@ -61,7 +63,6 @@ p {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -77,7 +78,6 @@ ul li {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
 }
 
@@ -103,7 +103,6 @@ ul li {
   height: 96px;
   font-family: Poppins;
   font-size: 41px;
-  font-style: normal;
   font-weight: 700;
   line-height: 48px;
 }
@@ -121,7 +120,6 @@ ul li {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -157,7 +155,6 @@ ul li {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -224,7 +221,6 @@ ul li {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -239,11 +235,10 @@ h3 {
   position: absolute;
   top: 110px;
   left: 25px;
-  color: var(--Grey-shaddes-500, #fff);
+  color: #fff;
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -301,7 +296,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -316,11 +310,10 @@ h3 {
   position: absolute;
   top: 110px;
   left: 25px;
-  color: var(--Grey-shaddes-500, #fff);
+  color: #fff;
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -378,7 +371,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -397,7 +389,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -454,7 +445,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -473,7 +463,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -531,7 +520,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -550,7 +538,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -591,11 +578,10 @@ h3 {
   margin: auto;
 }
 .left1 {
-  color: var(--Grey-shaddes-950, #0d0d0d);
+  color: #0d0d0d;
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
   width: 200px;
@@ -695,21 +681,19 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 31.514px; /* 140% */
+  line-height: 31.514px;
 }
 .ratings {
   padding-left: 10px;
 }
 .review {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings img {
@@ -725,7 +709,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -734,7 +717,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -761,7 +743,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -797,21 +778,19 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 31.514px; /* 140% */
+  line-height: 31.514px;
 }
 .ratings1 {
   padding-left: 10px;
 }
 .review1 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings1 img {
@@ -827,7 +806,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -836,7 +814,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -863,7 +840,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -898,21 +874,19 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
-  line-height: 31.514px; /* 140% */
+  line-height: 31.514px;
 }
 .ratings2 {
   padding-left: 10px;
 }
 .review2 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings2 img {
@@ -928,7 +902,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -937,7 +910,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -964,7 +936,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1002,7 +973,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1011,13 +981,12 @@ h3 {
   width: 400px;
 }
 .review3 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings3 img {
@@ -1033,7 +1002,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1042,7 +1010,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1068,7 +1035,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1125,17 +1091,16 @@ h3 {
   padding-left: 40px;
 }
 .left-side h2 {
-  color: var(--Grey-shaddes-500, #fff);
+  color: #fff;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
   padding-left: 40px;
   padding-top: 10px;
 }
 .left-side p {
-  color: var(--Grey-shaddes-500, #fff);
+  color: #fff;
   width: 546px;
   height: 76px;
   padding-left: 30px;
@@ -1143,9 +1108,8 @@ h3 {
   text-align: start;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
-  line-height: 25.335px; /* 150% */
+  line-height: 25.335px;
 }
 .btn-5 {
   width: 200px;
@@ -1160,7 +1124,6 @@ h3 {
   color: #fff;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 46.514px;
 }
@@ -1192,7 +1155,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 16.89px;
-  font-style: normal;
   font-weight: 400;
   line-height: 25.335px;
 }
@@ -1201,7 +1163,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 26px;
-  font-style: normal;
   font-weight: 600;
   line-height: 33.8px;
 }
@@ -1230,7 +1191,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1239,13 +1199,12 @@ h3 {
   width: 400px;
 }
 .review4 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings4 img {
@@ -1261,7 +1220,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1270,7 +1228,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1296,7 +1253,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1334,7 +1290,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1343,13 +1298,12 @@ h3 {
   width: 400px;
 }
 .review5 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings5 img {
@@ -1366,7 +1320,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1375,7 +1328,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1401,7 +1353,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1439,7 +1390,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1448,13 +1398,12 @@ h3 {
   width: 400px;
 }
 .review6 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings6 img {
@@ -1471,7 +1420,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1480,7 +1428,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1506,7 +1453,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1551,7 +1497,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1560,13 +1505,12 @@ h3 {
   width: 400px;
 }
 .review7 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings7 img {
@@ -1582,7 +1526,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1591,7 +1534,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1617,7 +1559,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1655,7 +1596,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1664,13 +1604,12 @@ h3 {
   width: 400px;
 }
 .review8 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings8 img {
@@ -1686,7 +1625,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1695,7 +1633,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1721,7 +1658,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1759,7 +1695,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1768,13 +1703,12 @@ h3 {
   width: 400px;
 }
 .review9 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings9 img {
@@ -1791,7 +1725,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1800,7 +1733,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1826,7 +1758,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1871,7 +1802,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1886,7 +1816,6 @@ h3 {
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings10 img {
@@ -1903,7 +1832,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1912,7 +1840,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -1938,7 +1865,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1976,7 +1902,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -1985,13 +1910,12 @@ h3 {
   width: 400px;
 }
 .review11 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings11 img {
@@ -2008,7 +1932,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2017,7 +1940,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2043,7 +1965,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2081,7 +2002,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2090,13 +2010,12 @@ h3 {
   width: 400px;
 }
 .review12 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings12 img {
@@ -2112,7 +2031,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2121,7 +2039,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2147,7 +2064,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2192,7 +2108,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2201,13 +2116,12 @@ h3 {
   width: 400px;
 }
 .review13 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings13 img {
@@ -2223,7 +2137,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2232,7 +2145,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2258,7 +2170,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2296,7 +2207,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2305,13 +2215,12 @@ h3 {
   width: 400px;
 }
 .review14 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings14 img {
@@ -2327,7 +2236,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2336,7 +2244,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2362,7 +2269,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2400,7 +2306,6 @@ h3 {
   padding-left: 10px;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2409,13 +2314,12 @@ h3 {
   width: 400px;
 }
 .review15 {
-  color: var(--Grey-shaddes-300, #b3b3b3);
+  color: #b3b3b3;
   position: absolute;
   top: 37px;
   left: 120px;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
 }
 .ratings15 img {
@@ -2432,7 +2336,6 @@ h3 {
   color: #000;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2441,7 +2344,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2467,7 +2369,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 22.51px;
-  font-style: normal;
   font-weight: 500;
   line-height: 31.514px;
 }
@@ -2526,7 +2427,6 @@ h3 {
   margin-top: 10px;
   font-family: Poppins;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 20px;
 }
@@ -2535,7 +2435,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2555,7 +2454,6 @@ h3 {
   margin-top: 10px;
   font-family: Poppins;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 20px;
 }
@@ -2564,7 +2462,6 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
@@ -2584,7 +2481,6 @@ h3 {
   margin-top: 10px;
   font-family: Poppins;
   font-size: 18px;
-  font-style: normal;
   font-weight: 700;
   line-height: 20px;
 }
@@ -2593,12 +2489,526 @@ h3 {
   text-align: center;
   font-family: Poppins;
   font-size: 12.67px;
-  font-style: normal;
   font-weight: 300;
   line-height: 19.005px;
 }
 
 /* End  Style About Section */
+
+.testimonials-section {
+  width: 100%;
+  height: 800px;
+  background-color: #003049;
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.left6 {
+  width: 600px;
+  height: auto;
+}
+.left6 .logo1 {
+  width: 130px;
+  padding-left: 40px;
+}
+.left6 h2 {
+  padding-left: 30px;
+  width: 518px;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 33.8px;
+}
+.left6 p {
+  width: 525px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  text-align: justify;
+  line-height: 25.335px;
+  padding-top: 80px;
+  padding-left: 30px;
+}
+.icon18 {
+  width: 100px;
+  display: flex;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+.right6 {
+  width: 700px;
+  height: 700px;
+  position: relative;
+  margin-left: 32px;
+  overflow: hidden;
+}
+.right6 .image25 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 805px;
+  height: 805px;
+}
+.right6 .image26 {
+  position: absolute;
+  /* right: 0; */
+  /* top: 5px; */
+  left: 170px;
+  bottom: 0;
+  top: 110px;
+  width: 605px;
+  height: 605px;
+  flex-shrink: 0;
+  border-radius: 605px;
+  opacity: 0.2;
+  background: #fff;
+
+  /* box-shadow: 0px 130.623px 277.922px 0px rgba(21, 21, 21, 0.15); */
+}
+.right6 h4 {
+  position: absolute;
+  bottom: 10%;
+  left: 36%;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 33.8px;
+  width: 280px;
+}
+.right6 .p1 {
+  color: #eaeaea;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  line-height: 25.335px;
+  position: absolute;
+  bottom: 7%;
+  left: 200px;
+  width: 300px;
+}
+
+/* Start Style Blog Section */
+
+.latest-blog {
+  width: 85%;
+  height: 580;
+  margin: auto;
+  margin-top: 20px;
+  position: relative;
+}
+.blog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding-top: 20px;
+}
+.latest-blog h4 {
+  color: #000;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+}
+.latest-blog h1 {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 33.8px;
+}
+.left-blog {
+  width: 560px;
+  height: 330px;
+  position: relative;
+}
+
+.left-img img {
+  width: 300px;
+  height: 316px;
+}
+.calender img {
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  top: 0;
+  left: 310px;
+}
+.date p {
+  width: 120px;
+}
+
+.date p {
+  color: #0d0d0d;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  top: 0;
+  left: 340px;
+}
+.left-blog .h3 {
+  color: #0d0d0d;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  line-height: 31.514px;
+  position: absolute;
+  top: 40px;
+  left: 310px;
+  width: 280px;
+  text-align: justify;
+}
+.p2 {
+  color: #333;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  line-height: 25.335px;
+  width: 250px;
+  height: 160px;
+  align-self: stretch;
+  text-align: justify;
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  padding-top: 10px;
+}
+
+.right-blog {
+  width: 560px;
+  height: 330px;
+  position: relative;
+}
+
+.right-img img {
+  width: 300px;
+  height: 316px;
+}
+.calender img {
+  width: 27px;
+  height: 27px;
+  position: absolute;
+  top: 0;
+  left: 310px;
+}
+.date1 p {
+  width: 120px;
+}
+.date1 p {
+  color: #0d0d0d;
+  text-align: center;
+  font-family: Oswald;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 340px;
+}
+.h4 {
+  color: #0d0d0d;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  line-height: 31.514px;
+  position: absolute;
+  top: 40px;
+  left: 310px;
+  width: 280px;
+  text-align: justify;
+}
+.p3 {
+  color: #333;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  line-height: 25.335px;
+  width: 250px;
+  height: 160px;
+  align-self: stretch;
+  text-align: justify;
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  padding-top: 10px;
+}
+.btn8 {
+  width: 225px;
+  height: 56px;
+  background-color: #76f4ca;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  line-height: 31.514px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.rectangle21 {
+  width: 225px;
+  height: 56px;
+  border: 4px solid #76f4ca;
+  margin: auto;
+  position: absolute;
+  left: 50px;
+  top: 30px;
+}
+.button1 {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin: auto;
+}
+
+/* end Style Blog Section */
+
+/* Start Footer Section */
+.footer-section {
+  width: 100%;
+  height: 600px;
+  border: 2px solid;
+  background-color: #ffead9;
+  display: flex;
+  padding: 62px 370px;
+  flex-direction: column;
+  align-items: center;
+  gap: 53px;
+  position: relative;
+}
+.footer-top {
+  z-index: 3;
+  width: 715px;
+  position: relative;
+}
+
+.h1 {
+  text-align: center;
+  background: linear-gradient(90deg, #d62828 40%, #003049 60%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Poppins;
+  font-size: 41px;
+  font-weight: 700;
+  line-height: 48px;
+  margin: 0;
+}
+.footer-top p {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  line-height: 25.335px;
+}
+.search-bar {
+  width: 584.536px;
+  height: 60px;
+  background: #f3f4f6;
+  box-shadow: 0px 8px 24px -4px rgba(255, 255, 255, 0.08),
+    0px 6px 12px -6px rgba(255, 255, 255, 0.12);
+  margin-top: 60px;
+}
+.input {
+  color: #7b7e86;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  line-height: 25.335px;
+  padding-top: 10px;
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  width: 584.536px;
+  height: 60px;
+  background-color: #f3f4f6;
+}
+.btn6 {
+  width: 113px;
+  height: 60px;
+  display: flex;
+  padding: 5px 26px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  align-self: stretch;
+  background: #d62828;
+  position: absolute;
+  right: 14px;
+  top: 159px;
+}
+.btn6 p {
+  color: #fff;
+  margin-right: 20px;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25.335px;
+}
+.footer-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.footer-bottom img {
+  width: 100%;
+  height: 360px;
+  position: relative;
+}
+
+.frame-center {
+  width: 950px;
+  height: 240px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.left-side1 {
+  width: 280px;
+  height: 240px;
+  position: relative;
+}
+.left-side1 h2 {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 41px;
+  font-weight: 700;
+  line-height: 48px;
+  padding: 0;
+  z-index: 3;
+}
+.left-side1 p {
+  color: #fff;
+  font-family: Poppins;
+  font-size: 16.89px;
+  font-weight: 400;
+  width: 145px;
+  padding: 0;
+  opacity: 0.7;
+  margin-top: 10px;
+  line-height: 22px;
+}
+
+.btn7 {
+  width: 225px;
+  height: 56px;
+  background-color: #d62828;
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.rectangle6 {
+  width: 225px;
+  height: 56px;
+  border: 4px solid #d62828;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+}
+
+.media-icons {
+  display: flex;
+  margin-top: 18px;
+  gap: 8px;
+}
+.media-icons img {
+  width: 46px;
+  height: 44px;
+}
+
+.center1 {
+  width: 280px;
+  height: 240px;
+  position: relative;
+  margin-left: 35px;
+  margin-top: 0;
+  gap: 10px;
+}
+.center1 h2 {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 33.8px;
+}
+.center1 .list-item1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  display: block;
+  width: 280px;
+}
+.center1 .list-item1 li {
+  color: #ffffff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  line-height: 31.514px;
+  margin: 4px;
+  opacity: 0.7;
+}
+
+.right-side1 {
+  width: 280px;
+  height: 240px;
+  position: relative;
+  margin: 0;
+  gap: 10px;
+}
+.right-side1 h2 {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 33.8px;
+  padding-left: 100px;
+}
+.right-side1 .list-item2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  display: block;
+  width: 280px;
+}
+.right-side1 .list-item2 li {
+  color: #ffffff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 22.51px;
+  font-weight: 500;
+  line-height: 31.514px;
+  margin: 4px;
+  opacity: 0.7;
+  padding-left: 90px;
+}
+
+/* End Footer Section */
 
 /* Start Responsive website */
 @media (max-width: 1200px) {
